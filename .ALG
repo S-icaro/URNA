@@ -1,4 +1,5 @@
- algoritimo
+ alg
+var
 
  num vetor[0..3] de inteiro
 votos, i, j, contl, cont2: inteiro
