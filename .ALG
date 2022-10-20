@@ -1,9 +1,9 @@
- VAR
+ algoritimo
 8
 9 num vetor[0..3] de inteiro
 10 votos, i, j, contl, cont2: inteiro
 11 Inicio
-12 // Seção de Comandos, procedimento,
+12 // SeÃ§Ã£o de Comandos, procedimento,
 13
 14 repita
 15 escreval("leia o no do candidato")
@@ -12,8 +12,8 @@
 171<-i + 1
 18 votos <- votos + 1
 19 limpatela
-20 até votos = 4
-21 escreval("fim da sessão")
+20 atÃ© votos = 4
+21 escreval("fim da sessÃ£o")
 22 para j de 0 ate 3 faca
 23 se num[j] = 13 entao 24 cont) <- cont) +1
 25 fimse
